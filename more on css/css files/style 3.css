@@ -1,0 +1,39 @@
+.container {
+    background-color: greenyellow;
+    
+
+}
+
+.list-items {
+    text-align: center;
+    margin: 3em ;
+    
+   
+}
+
+li {
+    display: inline-block;
+    padding: 1em;
+
+   
+}
+
+.list-items a:hover {
+    color: red;
+}
+
+.border1 {
+    border: 1px solid red;
+}
+.border2 {
+    border: 1px dotted red;
+}
+.border3 {
+    border: 1px dashed red;
+}
+.border4 {
+    border: 1px double red;
+}
+.border5 {
+    border: 1px groove red;
+}

@@ -1,0 +1,23 @@
+.container {
+    background-color: greenyellow;
+    
+
+}
+
+.list-items {
+    text-align: center;
+    margin: 3em ;
+    
+   
+}
+
+li {
+    display: inline-block;
+    padding: 1em;
+
+   
+}
+
+.list-items a:hover {
+    color: red;
+}
